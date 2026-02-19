@@ -2,9 +2,6 @@
 
 A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Save, organize, and access your favorite links with Google OAuth authentication and live updates across all your devices.
 
-## 🚀 Live Demo
-
-[View Live App](https://your-app.vercel.app) *(Update this after deployment)*
 
 ## ✨ Features
 
@@ -39,7 +36,7 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Sav
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-bookmark-app.git
+git clone https://github.com/SakshiSharan1912/SmartBookmarkApp
 cd smart-bookmark-app
 ```
 
